@@ -8,6 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet var factLabel: UILabel!
+    @IBOutlet var factLabel: UILabel!
+    @IBOutlet var factLabel: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
