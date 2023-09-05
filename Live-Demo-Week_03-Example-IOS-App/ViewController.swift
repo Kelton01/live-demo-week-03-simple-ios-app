@@ -10,14 +10,23 @@ import UIKit
 class ViewController: UIViewController {
     
     @IBOutlet var factLabel: UILabel!
-    @IBOutlet var factLabel: UILabel!
-    @IBOutlet var factLabel: UILabel!
+    @IBOutlet var prevButton: UILabel!
+    @IBOutlet var nextButton: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    @IBAction func prevButtonClicked() {
+        print("Prev Button was clicked")
+        
+    }
 
+    @IBAction func nextButtonClicked() {
+        print("Next Button was clicked")
+        
+    }
 
 }
 
