@@ -47,7 +47,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="view" destination="jqI-kC-9uA" id="119-7d-7G2"/>
+                        <outlet property="view" destination="zW4-9d-MzR" id="chG-sZ-rIB"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
